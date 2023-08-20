@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-### 👨‍💻 Technologies and tools I work daily:
+### 👨‍💻 Technologies and tools I use daily:
 ![Node.js](https://img.shields.io/badge/Node-090c15?&logo=nodedotjs&color=339933&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=Nestjs)
