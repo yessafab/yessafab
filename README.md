@@ -2,7 +2,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node-090c15?&logo=nodedotjs&color=339933&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?&logo=shopify&logoColor=white)
-![NewRelic]https://img.shields.io/badge/New%20Relic-1CE783.svg?logo=New-Relic&logoColor=white)
+![NewRelic](https://img.shields.io/badge/New%20Relic-1CE783.svg?logo=New-Relic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-4169E1?&logo=postgresql&logoColor=white)
 ![Algolia](https://img.shields.io/badge/Algolia-5468FF?&logo=algolia&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white)
