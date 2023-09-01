@@ -1,4 +1,4 @@
-### 👨‍💻 Technologies and tools on my day-to-day
+### 👨‍💻 Technologies and tools in my day-to-day
 
 ![Node.js](https://img.shields.io/badge/Node-090c15?&logo=nodedotjs&color=339933&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?&logo=shopify&logoColor=white)
