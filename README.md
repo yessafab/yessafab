@@ -1,5 +1,6 @@
 ### 👨‍💻 Technologies and tools in my day-to-day
 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node-090c15?&logo=nodedotjs&color=339933&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?&logo=shopify&logoColor=white)
 ![NewRelic](https://img.shields.io/badge/New%20Relic-1CE783.svg?logo=New-Relic&logoColor=white)
